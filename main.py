@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}! Welcome to python-demo-app."
+    return f"Hi there, {name}! Welcome to python-demo-app."
 
 def farewell(name):
     return f"Goodbye, {name}. See you next time."
